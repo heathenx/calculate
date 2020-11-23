@@ -1,0 +1,2 @@
+include ':app', ':calculatex'
+rootProject.name='CalculateX'
